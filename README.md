@@ -6,6 +6,9 @@ This github pages version of the blog is a temporary measure until a final platf
 
 For the timebeing, Jekyll and github pages lets us publish blog posts quickly and provides an archive of content which can be migrated when appropriate.
 
+In character, this should be a blog in the literal sense of web-log. It's more like internal tool than a public-facing channel (though of course it will be publicly accessible and should reflect that).
+
+More substantive material from or about code pod (tutorials, essays, promotion) is probably better suited to the code pod [Medium publication](https://medium.com/code-pod).
 # Jekyll
 
 ...is a well-known method for publishing static websites, especially blogs. It has a lot of flexibility and there's no need to recap those features here. Check out the [Jekyll site](https://jekyllrb.com/) for more information.
@@ -33,6 +36,9 @@ eg
 - data analysis
 - resource recommendations
 - ???
+
+It's open-ended, so there's no formal classification system - common sense will hopefully be adequate.
+
 
 END
 
