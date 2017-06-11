@@ -1,7 +1,4 @@
-
-
 ---
-title: core dynamics
 tags: [scratch, dynamics, reward, minimal, ego, games, analysis]
 layout: post
 author: Mark Mitchell
