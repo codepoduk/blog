@@ -12,12 +12,14 @@ All code pod members are encouraged to contribute to the blog (should they have 
 1) write your blog post in markdown
 
 2) include YAML front matter at the top of the post:
-	>\- - -
-	title: Your Title Here
+
+>\- - -
+	
+>	title: Your Title Here
 	author: your name
 	tags: [comma, separated, array, of, tags]
 	date: date of publication
-	- - - 
+> \- - - 
 
 Those are three consecutive dashes at the top and bottom.
 
