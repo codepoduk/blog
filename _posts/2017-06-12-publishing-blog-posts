@@ -43,8 +43,10 @@ Config can be a wee bit fiddly, and I haven't time to do a step-by-step here, bu
 
 The main thing you need to know is that the publishing details, when prompted are:
 
->Repository:  **codepoduk/blog**
+Repository:  **codepoduk/blog**
+
 Branch:   **master**
+
 File Path:   **_posts/2017-06-12-publishing-blog-posts.md**
 
 This is the hardest part of the process, since nowhere seems to specifically explain the format, but once you got this down, you're set!
