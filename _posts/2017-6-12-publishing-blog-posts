@@ -16,8 +16,11 @@ All code pod members are encouraged to contribute to the blog (should they have 
 \- \- \-
 
 title: Your Title Here
+
 author: your name
+
 tags: [comma, separated, array, of, tags]
+
 date: date of publication
 
 \- \- \- 
