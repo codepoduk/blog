@@ -1,10 +1,10 @@
 ---
+author: Mark Mitchell
+category: games
+date: 2017-6-6
+layout: post
 tags: [scratch, dynamics, reward, minimal, ego, games, analysis]
 title: Core Game Dynamics
-layout: post
-category: games
-author: Mark Mitchell
-date: 2017-6-6
 ---
 
 Lately I've been actively observing my processes when I'm working and trying to be analytical about them so I can make best use of my time and energy (physcial and emotional!).
