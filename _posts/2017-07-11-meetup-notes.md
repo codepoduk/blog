@@ -13,8 +13,8 @@ I was only clinging onto the conversation with my fingernails, but it seems that
 
 Dan and Rahul referred to a technique called [K-nearest neighbour](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) that they're using to iterate over these data and progressively order them via [mean shifting](https://en.wikipedia.org/wiki/Mean_shift). If you're like me and don't understand that, here are some diagrams they provided:
 
-![Dan's KNN diagram](images/knn.jpg)
-![Rahul's KNN diagram](images/knn2.jpg)
+![Dan's KNN diagram](/blog/images/knn.jpg)
+![Rahul's KNN diagram](/blog/images/knn2.jpg)
 
 Got that? good!
 
