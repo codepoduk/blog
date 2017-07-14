@@ -6,7 +6,7 @@ tags: [meetups, meetup, group, rasberry pi, pi, raspi, bitcoin, blockchain, memb
 title: Thursday 13th July
 ---
 
-You wait weeks to see some new faces at the meetups, then 4 show up at once! It was a reasonablt gentle start to the meetup. [Dan](https://github.com/danmarcus111) and [I](https://github.com/spitchell) were both there early to try to get some work done because the meetups are great for, well, meeting up, but less so for actually producing functional code!
+You wait weeks to see some new faces at the meetups, then 4 show up at once! It was a reasonably gentle start to the meetup. [Dan](https://github.com/danmarcus111) and [I](https://github.com/spitchell) were both there early to try to get some work done because the meetups are great for, well, meeting up, but less so for actually producing functional code!
 
 ## Disposable Hardware
 Dan had mentioned last week that he intended to set up a home server using a [raspberry pi](https://www.raspberrypi.org/), so I had a root around in my hardware drawer for spares and found I had even more unutilised pis than than I thought!
